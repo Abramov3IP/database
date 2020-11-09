@@ -1,0 +1,15 @@
+C:\Users\WorkStation\source\repos\ses1\ses1\bin\Debug\ses1.exe.config
+C:\Users\WorkStation\source\repos\ses1\ses1\bin\Debug\ses1.exe
+C:\Users\WorkStation\source\repos\ses1\ses1\bin\Debug\ses1.pdb
+C:\Users\WorkStation\source\repos\ses1\ses1\obj\Debug\ses1.csprojAssemblyReference.cache
+C:\Users\WorkStation\source\repos\ses1\ses1\obj\Debug\MainWindow.g.cs
+C:\Users\WorkStation\source\repos\ses1\ses1\obj\Debug\App.g.cs
+C:\Users\WorkStation\source\repos\ses1\ses1\obj\Debug\ses1_MarkupCompile.cache
+C:\Users\WorkStation\source\repos\ses1\ses1\obj\Debug\ses1_MarkupCompile.lref
+C:\Users\WorkStation\source\repos\ses1\ses1\obj\Debug\MainWindow.baml
+C:\Users\WorkStation\source\repos\ses1\ses1\obj\Debug\ses1.g.resources
+C:\Users\WorkStation\source\repos\ses1\ses1\obj\Debug\ses1.Properties.Resources.resources
+C:\Users\WorkStation\source\repos\ses1\ses1\obj\Debug\ses1.csproj.GenerateResource.cache
+C:\Users\WorkStation\source\repos\ses1\ses1\obj\Debug\ses1.csproj.CoreCompileInputs.cache
+C:\Users\WorkStation\source\repos\ses1\ses1\obj\Debug\ses1.exe
+C:\Users\WorkStation\source\repos\ses1\ses1\obj\Debug\ses1.pdb
